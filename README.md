@@ -20,3 +20,6 @@ Widgets used in code:
  The Stack widget is used to overlay multiple widgets on top of each other.
 
  The Wrap widget is used to wrap text when it reaches the end of a line.
+![image](https://github.com/Archithakm/Insta-clone/assets/110973333/5c9b9874-e766-4834-8009-389c1c577b2b)
+![image](https://github.com/Archithakm/Insta-clone/assets/110973333/bd5703e2-e032-4564-8a34-d4635a82a54c)
+
