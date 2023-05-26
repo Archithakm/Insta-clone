@@ -1,22 +1,4 @@
 
-Conversation starred. Conversation opened. 1 unread message.
-
-Skip to content
-Using Ramco Institute of Technology Mail with screen readers
-in:sent 
-
-42 of many
-(no subject)
-Inbox
-
-KM ARCHITHA <953621104023@ritrjpm.ac.in>
-Attachments
-Tue, Apr 18, 1:32 PM
-to me
-
-
- One attachment
-  •  Scanned by Gmail
 import 'package:flutter/material.dart';
 
 List<Map<String, String>> userMap=[
